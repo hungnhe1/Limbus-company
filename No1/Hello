@@ -6,9 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Hello</h2>
     <div>
-        <p>Hello</p>
+        Hay dien form sau
+    </div>
+    <div>
+        <form name="User information" action=""></form>
     </div>
 </body>
 </html>
